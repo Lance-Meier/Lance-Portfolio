@@ -7,7 +7,7 @@ body {
 }
 
 #header {
-  background-image: url("https://raw.githubusercontent.com/Lance-Meier/Lance-Portfolio/master/pineapple-1704341.jpg");
+  background-image: url("https://raw.githubusercontent.com/Lance-Meier/Lance-Portfolio/gh-pages/Images/pineapple-1704341.jpg");
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -25,6 +25,8 @@ body {
   left: 0;
   top: 0;
   text-align: center;
+  text-decoration: none;
+  color: #000;
   z-index: 10000;
   background-color: #EFE7E5;
 }
@@ -41,6 +43,8 @@ body {
   display: inline-block;
   text-align: center;
   font-family: Lato, Arial, sans-serif;
+  text-decoration: none;
+  color: #000;
   font-size: 28px;
   margin: 0 48px 0 48px;
 }
