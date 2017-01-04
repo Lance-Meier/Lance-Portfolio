@@ -7,7 +7,7 @@ body {
 }
 
 #header {
-  background-image: url("https://raw.githubusercontent.com/Lance-Meier/Lance-Portfolio/gh-pages/Images/pineapple-1704341.jpg");
+  background-image: url("https://raw.githubusercontent.com/Lance-Meier/Lance-Portfolio/gh-pages/Images/pineapple-1704341small.jpg");
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -18,7 +18,7 @@ body {
   width: 100%;
 }
 
-.nav{
+.nav {
   border-bottom: 4px solid grey;
   position: fixed;
   width: 100%;
@@ -49,18 +49,26 @@ body {
   margin: 0 48px 0 48px;
 }
 
+.nav li a {
+  color: #000;
+  text-decoration: none;
+}
+
 a:visited {
   text-decoration: none;
   color: black;
   }
+
 a:hover {
   text-decoration: none;
   color: black;
   }
+
 a:focus {
   text-decoration: none;
   color: black;
   }
+
 a:hover, a:active {
   text-decoration: none;
   color: black;
